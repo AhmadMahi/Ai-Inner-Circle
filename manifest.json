@@ -1,0 +1,19 @@
+{
+  "format": {
+    "major": 1,
+    "minor": 0
+  },
+  "notebookId": "01a09643-9db7-7b87-a8a9-1875bd38f283",
+  "title": "Ai Inner Circle",
+  "createdAt": 1789227408834,
+  "scope": {
+    "kind": "notebook",
+    "id": "01a09643-9db7-7b87-a8a9-1875bd38f283"
+  },
+  "devices": {
+    "01a077b6-4c36-77bc-879a-5f58767d5cc4": {
+      "firstSeen": 1789227408838,
+      "label": "Mac computer"
+    }
+  }
+}
